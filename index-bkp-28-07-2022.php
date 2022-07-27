@@ -156,6 +156,16 @@ test();
 //     <div class="fakeimg" style="height:60px;">Image</div> -->
 //   </div>
 // <div class="main">
+  <script type="text/javascript">
+    atOptions = {
+      'key' : '88e707c487990da2883d4b95aa838232',
+      'format' : 'iframe',
+      'height' : 60,
+      'width' : 468,
+      'params' : {}
+    };
+    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://regainthong.com/88e707c487990da2883d4b95aa838232/invoke.js"></scr' + 'ipt>');
+  </script>
 //     <h2 class="title"></h2>
     
 //     <div class="img-container" ><img class="content-img" src="" alt=""></div>
