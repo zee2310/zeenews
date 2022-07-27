@@ -98,7 +98,7 @@ test();
 
 // <!-- Navigation Bar -->
 // <div class="navbar">
-//   <a href="#">Home</a>
+//   <a href="../index.html">Home</a>
 //   <a href="#">News</a>
 //   <a href="#">Articles</a>
 //   <a href="#">Contact Us</a>
